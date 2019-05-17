@@ -42,11 +42,11 @@ v4 - Redux-saga를 이용해 API를 받아 처리하는 앱
 
 이번 주에 진행하는 보일러 플레이트 목록
 
-v0 - https://codesandbox.io/s/924zj53kwr
-v1 - https://codesandbox.io/s/xzvm68m9xw
-v2 - https://codesandbox.io/s/xlkmn0kpp4
-v3 - https://codesandbox.io/s/xjnzyn38mo
-v4 - https://codesandbox.io/s/n51jrkq2wl
+v0 - https://codesandbox.io/s/924zj53kwr  
+v1 - https://codesandbox.io/s/xzvm68m9xw  
+v2 - https://codesandbox.io/s/xlkmn0kpp4  
+v3 - https://codesandbox.io/s/xjnzyn38mo  
+v4 - https://codesandbox.io/s/n51jrkq2wl  
 
 # 2일차 교육 내용 기록
 
