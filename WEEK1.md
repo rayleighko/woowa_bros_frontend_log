@@ -47,3 +47,22 @@ v1 - https://codesandbox.io/s/xzvm68m9xw
 v2 - https://codesandbox.io/s/xlkmn0kpp4
 v3 - https://codesandbox.io/s/xjnzyn38mo
 v4 - https://codesandbox.io/s/n51jrkq2wl
+
+# 2일차 교육 내용 기록
+
+2일차에는 결석을 해서 추후에 독학해서 정리하는 걸로! 참고 자료는 하단에 있음.
+
+예제 코드 링크입니다~ (이 포스트를 계속 업데이트 하겠습니다)
+
+1회차: (프로젝트 생성, 리엑트 컴포넌트 맛보기)
+- https://codesandbox.io/s/924zj53kwr
+- https://codesandbox.io/s/xzvm68m9xw
+
+2회차: (Redux 핵심F/U, React에 Redux 적용, 컴포넌트 역할 분리)
+- https://codesandbox.io/s/redux-basic-6505n
+- https://codesandbox.io/s/xlkmn0kpp4
+- https://codesandbox.io/s/xjnzyn38mo
+
+3회차: redux middleware, saga, 비동기 액선 처리
+- https://codesandbox.io/s/n51jrkq2wl
+- (업데이트 예정)
